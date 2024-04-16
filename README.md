@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://twitter.com/EdtechM416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adviut" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mahendra-jadav-4b524a188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahendra jadav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mjstar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mjstar007" height="30" width="40" /></a>
 </p>
 <br>
 <br>
